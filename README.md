@@ -4,7 +4,7 @@
 
 Most conference lists are a wall of undated links that went stale two years ago. This one is dated, deduplicated, filtered to ops-relevant events, and refreshed weekly.
 
-**Last updated: 12 August 2026.** 100+ events across six continents. Every link in the dated tables was HTTP-checked on that date, and every date in them was confirmed against the organizer's own page — the only exceptions are collected, clearly labelled, under [Confirmed dates, organizer link needed](#confirmed-dates-organizer-link-needed). Past events are removed, not struck through. If a date has drifted, [open an issue](../../issues/new).
+**Last updated: 12 August 2026.** 110+ events across six continents. Every link in the dated tables was HTTP-checked on that date, and every date in them was confirmed against the organizer's own page. Past events are removed, not struck through. If a date has drifted, [open an issue](../../issues/new).
 
 ## Contents
 
@@ -17,7 +17,6 @@ Most conference lists are a wall of undated links that went stale two years ago.
 - [Africa](#africa)
 - [Online](#online)
 - [Recurring series](#recurring-series)
-- [Confirmed dates, organizer link needed](#confirmed-dates-organizer-link-needed)
 - [Where to find more](#where-to-find-more)
 - [Contributing](#contributing)
 
@@ -91,17 +90,27 @@ Sorted by deadline, closest first.
 | 2–4 Sep 2026 | [ContainerDays Hamburg 2026](https://www.containerdays.io/containerdays-hamburg-2026/) | Hamburg, Germany |
 | 4–5 Sep 2026 | [DevOpsDays Graz](https://devopsdays.org/events/2026-graz/) | Graz, Austria |
 | 17 Sep 2026 | [DevOpsDays London](https://devopsdays.org/events/2026-london/) | London, UK |
+| 17 Sep 2026 | [Swiss Cloud Native Day 2026](https://cloudnativeday.ch/) | Bern, Switzerland |
 | 21–22 Sep 2026 | [Cloud Foundry Summit](https://www.cloudfoundry.org/events/) | Heidelberg, Germany |
-| 22 Sep 2026 | [Cloud Native Münster](https://community2.cncf.io/dashboard/cloud-native-munster) | Münster, Germany |
+| 22 Sep 2026 | [Cloud Native Münster](https://www.meetup.com/cloud-native-munster/) | Münster, Germany |
 | 24 Sep 2026 | [PlatformCon Live Day Paris](https://platformcon.com/) | Paris, France |
+| 29–30 Sep 2026 | [Cloud Native Days Austria 2026](https://cloudnativedays.at/) | Vienna, Austria |
+| 29 Sep 2026 | [KCD Sofia 2026](https://kcd.bg/) | Sofia, Bulgaria |
 | 30 Sep – 1 Oct 2026 | [DevOpsDays Vilnius](https://devopsdays.org/events/2026-vilnius/) | Vilnius, Lithuania |
 | 5 Oct 2026 | [DevOpsDays Prague](https://devopsdays.org/events/2026-prague/) | Prague, Czechia |
 | 5 Oct 2026 | [Observability Summit Europe](https://events.linuxfoundation.org/observability-summit-europe/) | Prague, Czechia |
+| 12–13 Oct 2026 | [DevOops 2026](https://devoops.ru/en/) | Saint Petersburg, Russia |
 | 13–15 Oct 2026 | [SREcon26 EMEA](https://www.usenix.org/conference/srecon26emea) | Dublin, Ireland |
+| 14–15 Oct 2026 | [Containerkonferansen 2026](https://containerkonferansen.no/) | Trondheim, Norway |
+| 19–20 Oct 2026 | [KCD UK Edinburgh 2026](https://community2.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-edinburgh-2026/) | Edinburgh, UK |
+| 22 Oct 2026 | [Cloud Native Days Poland 2026](https://cloudnativedayspoland.org/) | Warsaw, Poland |
+| 26–27 Oct 2026 | [Cloud Native Days Norway 2026](https://2026.cloudnativedays.no/) | Bergen, Norway |
 | 29–30 Oct 2026 | [Dutch Cloud Native Day 2026](https://www.dutchcloudnativeday.nl/) | Utrecht, Netherlands |
 | 2 Nov 2026 | [SREday Amsterdam 2026 Q4](https://sreday.com/) | Amsterdam, Netherlands |
 | 13–14 Nov 2026 | [DevOpsDays Barcelona](https://devopsdays.org/events/2026-barcelona/) | Barcelona, Spain |
 | 19–20 Nov 2026 | [KCD Porto 2026](https://community2.cncf.io/events/details/cncf-kcd-porto-presents-kcd-porto-2026-collab-with-devops-days-portugal/) (with DevOpsDays Portugal) | Porto, Portugal |
+| 19–20 Nov 2026 | [Cloud Native Denmark 2026](https://cloudnativedenmark.dk/) | Copenhagen, Denmark |
+| 19–21 Nov 2026 | [X-Ops Conference Madrid](https://www.xopsconference.com/) | Madrid, Spain |
 | 23–24 Nov 2026 | [DevOpsDays Warsaw](https://devopsdays.org/events/2026-warsaw/) | Warsaw, Poland |
 | 30 Nov – 4 Dec 2026 | [DevOpsCon Munich 2026](https://devopscon.io/munich/) | Munich, Germany |
 | 2–3 Dec 2026 | [Cloud Native AI Summit Europe](https://www.cloudnative.ai/events/paris) | Paris, France |
@@ -117,17 +126,22 @@ Sorted by deadline, closest first.
 | Q3 2026 | [SREday London 2026 Q3](https://sreday.com/) | London, UK |
 | Q4 2026 | [SREday Warsaw 2026 Q4](https://sreday.com/) | Warsaw, Poland |
 | Q2 2027 | [SREday Katowice 2027 Q2](https://sreday.com/) | Katowice, Poland |
+| TBA 2026 | [KCD Budapest 2026](https://kcdbudapest.hu/) | Budapest, Hungary |
 
 ## Asia and the Middle East
 
 | Date | Conference | Location |
 | --- | --- | --- |
+| 22 Aug 2026 | [Cloud Native Summit Kerala 2026](https://cnskerala.in/) | Kochi, India |
 | 27 Aug 2026 | [DevOpsDays Jakarta](https://devopsdays.org/events/2026-jakarta/) | Jakarta, Indonesia |
 | 1 Sep 2026 | [KCD x Ceph x OpenInfra Day Korea 2026](https://community2.cncf.io/events/details/cncf-kcd-south-korea-presents-kcd-x-ceph-x-openinfra-day-korea-2026/) | Seoul, South Korea |
 | 8–9 Sep 2026 | [KubeCon + CloudNativeCon + OpenInfra Summit China](https://www.lfasiallc.com/kubecon-cloudnativecon-openinfra-summit-pytorch-conference-china/) | Shanghai, China |
 | 19 Sep 2026 | [KCD Gujarat 2026](https://sessionize.com/kcd-gujarat-2026/) | Ahmedabad, India |
+| 15–17 Oct 2026 | [X-Ops Conference Dubai](https://www.xopsconference.com/) | Dubai, UAE |
 | 16 Oct 2026 | [DevOpsDays Almaty](https://devopsdays.org/events/2026-almaty/) | Almaty, Kazakhstan |
+| 24 Oct 2026 | [KCD Indonesia 2026](https://kcd.cloudnative.id/) | Bandung, Indonesia |
 | 24 Oct 2026 | [DevOpsDays Istanbul](https://devopsdays.org/events/2026-istanbul/) | Istanbul, Türkiye |
+| 10–11 Dec 2026 | [ONE Summit Japan](https://events.linuxfoundation.org/open-networking-edge-summit-japan/) | Tokyo, Japan |
 | 22 Dec 2026 | [DevOpsDays Tel Aviv](https://devopsdays.org/events/2026-tel-aviv/) | Tel Aviv, Israel |
 | TBA 2026 | [KCD Kochi 2026](https://community2.cncf.io/events/details/cncf-kcd-kochi-presents-kcd-kochi-2026/) | Kochi, India |
 | TBA | [DevOpsDays Islamabad](https://devopsdays.org/events/2026-islamabad/) | Islamabad, Pakistan |
@@ -138,12 +152,12 @@ Sorted by deadline, closest first.
 | --- | --- | --- |
 | 15 Aug 2026 | [DevOpsDays Rio de Janeiro](https://devopsdays.org/events/2026-rio-de-janeiro/) | Rio de Janeiro, Brazil |
 | 22 Aug 2026 | [DevOpsDays Curitiba](https://devopsdays.org/events/2026-curitiba/) | Curitiba, Brazil |
+| 22 Aug 2026 | [Containers Days Dominican Republic](https://containers.day/en/) | Santiago de los Caballeros, DR |
 | 27–28 Aug 2026 | [DevOpsDays Lima](https://devopsdays.pe/) | Lima, Peru |
 | 5 Sep 2026 | [DevOpsDays Feira de Santana](https://devopsdays.org/events/2026-feira-de-santana/) | Feira de Santana, Brazil |
 | 8–9 Sep 2026 | [DevOpsDays Santiago](https://devopsdays.org/events/2026-santiago/) | Santiago, Chile |
 | 26 Sep 2026 | [KCD São Paulo 2026](https://community.cncf.io/kcd-brasil/) | São Paulo, Brazil |
 | 26 Sep 2026 | [DevOpsDays Belo Horizonte](https://devopsdays.org/events/2026-belo-horizonte/) | Belo Horizonte, Brazil |
-| 2 Oct 2026 | [KCD Argentina 2026](https://ocgroups.dev/cncf/group/6vnv695) | Buenos Aires, Argentina |
 | 17 Oct 2026 | [DevOpsDays Juiz de Fora](https://devopsdays.org/events/2026-juiz-de-fora/) | Juiz de Fora, Brazil |
 | 23 Oct 2026 | [DevOpsDays Bogotá](https://devopsdays.org/events/2026-bogota/) | Bogotá, Colombia |
 | 24 Oct 2026 | [DevOpsDays Florianópolis](https://devopsdays.org/events/2026-florianopolis/) | Florianópolis, Brazil |
@@ -153,12 +167,15 @@ Sorted by deadline, closest first.
 | 12 Dec 2026 | [DevOpsDays Recife](https://devopsdays.org/events/2026-recife/) | Recife, Brazil |
 | Q4 2026 | [SREday Campinas 2026 Q4](https://sreday.com/) | Campinas, Brazil |
 | TBA | [DevOpsDays São Paulo](https://devopsdays.org/events/2026-sao-paulo/) | São Paulo, Brazil |
+| 22 Jan 2027 | [KCD Panama](https://community2.cncf.io/events/details/cncf-kcd-panama-presents-kcd-panama-2026/) | Panama City, Panama |
 
 ## Oceania
 
 | Date | Conference | Location |
 | --- | --- | --- |
 | 28 Oct 2026 | [PlatformCon Live Day Sydney](https://platformcon.com/) | Sydney, Australia |
+| 28–29 Oct 2026 | [Cloud Native Summit APAC 2026](https://www.cloudnative.ai/events/melbourne) | Melbourne, Australia |
+| 9–10 Nov 2026 | [CloudCon SYD 2026](https://cloudcon.au/) | Sydney, Australia |
 | TBA | [DevOpsDays Melbourne](https://devopsdays.org/events/2026-melbourne/) | Melbourne, Australia |
 
 ## Africa
@@ -197,32 +214,6 @@ Worth a calendar reminder even when the next date has not been announced.
 
 **Dormant.** Listed because people still search for them, but neither has announced a 2026 or 2027 edition and both sites still show 2024: [Monitorama](https://monitorama.com/) and [All Day DevOps](https://www.alldaydevops.com/). If you know otherwise, please open a PR.
 
-## Confirmed dates, organizer link needed
-
-These are real events with confirmed dates, but we have not verified a canonical organizer URL for them yet. **PRs adding the official link are the single most useful contribution you can make to this list.**
-
-| Date | Conference | Location |
-| --- | --- | --- |
-| 22 Aug 2026 | Cloud Native Summit Kerala 2026 | Kochi, India |
-| 22 Aug 2026 | Containers Days Dominican Republic | Santiago de los Caballeros, DR |
-| 17 Sep 2026 | Swiss Cloud Native Day 2026 | Bern, Switzerland |
-| 29–30 Sep 2026 | Cloud Native Days Austria 2026 | Vienna, Austria |
-| 29 Sep 2026 | KCD Sofia 2026 | Sofia, Bulgaria |
-| 12–13 Oct 2026 | DevOops 2026 | Saint Petersburg, Russia |
-| 14–15 Oct 2026 | Containerkonferansen 2026 | Trondheim, Norway |
-| 15–17 Oct 2026 | X-Ops Conference Dubai | Dubai, UAE |
-| 19–20 Oct 2026 | KCD UK Edinburgh 2026 | Edinburgh, UK |
-| 22 Oct 2026 | Cloud Native Days Poland 2026 | Warsaw, Poland |
-| 24 Oct 2026 | KCD Indonesia 2026 | Bandung, Indonesia |
-| 26–27 Oct 2026 | Cloud Native Days Norway 2026 | Bergen, Norway |
-| 29 Oct 2026 | Cloud Native Summit APAC 2026 | Melbourne, Australia |
-| 9–10 Nov 2026 | CloudCon SYD 2026 | Sydney, Australia |
-| 19–20 Nov 2026 | Cloud Native Denmark 2026 | Copenhagen, Denmark |
-| 10–11 Dec 2026 | ONE Summit Japan | Tokyo, Japan |
-| 22 Jan 2027 | KCD Panama | Panama City, Panama |
-| TBA 2026 | KCD Budapest 2026 | Budapest, Hungary |
-| TBA 2026 | KCD Helsinki 2026 | Helsinki, Finland |
-| TBA 2026 | KCD Czech & Slovak Prague 2026 | Prague, Czechia |
 
 ## Where to find more
 
